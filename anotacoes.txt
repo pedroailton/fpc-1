@@ -1,0 +1,11 @@
+data: 11/09/2025
+professor: Cídero Garrozi
+
+------------------------------
+
+chave - item a ser ordenado
+dados satélite - dados atrelados a uma chave
+
+ordenação de strings - ordem alfabética com base na tabela ASCII
+
+------------------------------
